@@ -106,5 +106,5 @@ const person = {
 // person.age= 23
 // person.friends = 'No '
 
-console.log(person)
+// console.log(person)
 
