@@ -1,29 +1,29 @@
-const products = [
-    {
-        name: "tecno",
-        brand: "techno",
-        price: 17000,
-        color: "black",
-    },
-    {
-        name: "Samsung",
-        brand: "samsung",
-        price: 11000,
-        color: "white",
-    },
-    {
-        name: "I phone",
-        brand: "apple",
-        price: 170000,
-        color: "yeallow",
-    },
-    {
-        name: "readmi",
-        brand: "xaomi",
-        price: 15000,
-        color: "black",
-    },
-];
+// const products = [
+//     {
+//         name: "tecno",
+//         brand: "techno",
+//         price: 17000,
+//         color: "black",
+//     },
+//     {
+//         name: "Samsung",
+//         brand: "samsung",
+//         price: 11000,
+//         color: "white",
+//     },
+//     {
+//         name: "I phone",
+//         brand: "apple",
+//         price: 170000,
+//         color: "yeallow",
+//     },
+//     {
+//         name: "readmi",
+//         brand: "xaomi",
+//         price: 15000,
+//         color: "black",
+//     },
+// ];
 
 /* Map ====>>>>> map return kore with an array */
 const result = products.map((product) =>{
